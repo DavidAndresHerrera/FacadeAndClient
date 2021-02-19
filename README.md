@@ -32,7 +32,7 @@ Desde la clase ServiceFacade se llama a la clase ServiceFacadeOperation para que
 para el funcionamiento utilice este link    https://servicefacade.herokuapp.com/Operaciones?operacion=sin&dato=2, tenga en cuenta que si quiere cambiar de operacion solo es cambiar el dato de operacion por tan o cos, y si quiere cambiar el valor solo es cambiar el que esta definido por otro
 para el funcionamiento del cliente toca ejecutar la siguiente linea java -cp target/ServiceFacade-1.0-SNAPSHOT.jar edu.escuelaing.arep.Cliente
 
->  [CircleCI](https://circleci.com/) : Integración contínua [![CircleCI](https://servicefacade.herokuapp.com/Operaciones?operacion=sin&dato=2)
+>  [CircleCI](https://circleci.com/) : Integración contínua [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://servicefacade.herokuapp.com/Operaciones?operacion=sin&dato=2)
 
 ### Licencia
 GNU General Public License v3.0 
